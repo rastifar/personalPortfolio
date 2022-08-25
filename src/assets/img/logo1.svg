@@ -1,0 +1,15 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 155 40" width="157" height="40">
+	<title>New Project</title>
+	<defs>
+		<image  width="155" height="40" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJsAAAAoAQMAAADT8RoUAAAAAXNSR0IB2cksfwAAAANQTFRF////p8QbyAAAABBJREFUeJxjYBgFo2AUUAoAA0gAARPQAb4AAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+		tspan { white-space:pre } 
+		.t0 { font-size: 25px;fill: #000000;font-weight: 500;font-family: "Galada-Regular", "Galada" } 
+	</style>
+	<use id="Background" href="#img1" x="0" y="0"/>
+	<text id="Hanie Rastifar" style="transform: matrix(1,0,0,1,-1,9)" >
+		<tspan x="5.4" y="17.6" class="t0">H</tspan><tspan  y="17.6" class="t0">a</tspan><tspan  y="17.6" class="t0">n</tspan><tspan  y="17.6" class="t0">i</tspan><tspan  y="17.6" class="t0">e</tspan><tspan  y="17.6" class="t0"> </tspan><tspan  y="17.6" class="t0">R</tspan><tspan  y="17.6" class="t0">a</tspan><tspan  y="17.6" class="t0">s</tspan><tspan  y="17.6" class="t0">t</tspan><tspan  y="17.6" class="t0">i</tspan><tspan  y="17.6" class="t0">f</tspan><tspan  y="17.6" class="t0">a</tspan><tspan  y="17.6" class="t0">r
+</tspan>
+	</text>
+</svg>

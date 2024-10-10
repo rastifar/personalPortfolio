@@ -1,5 +1,5 @@
 ## Project Preview Link
-[See Project](https://rastifar.github.io/digikala-mock-website-old-version-simplified/)
+[See Project](https://rastifar.github.io/personalPortfolio/)
 
 ## Project Overview
 

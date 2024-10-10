@@ -1,70 +1,40 @@
-# Getting Started with Create React App
+## Project Preview Link
+[See Project](https://rastifar.github.io/digikala-mock-website-old-version-simplified/)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Project Overview
 
-## Available Scripts
+This project was created based on a tutorial I followed a few years ago.
+The tutorial provided a comprehensive guide on creating a personal portfolio using React.js. 
+I implemented the project to enhance my understanding of React and also make a personal portfolio for myself.
 
-In the project directory, you can run:
+### Technologies Used
 
-### `npm start`
+•  React: A JavaScript library for building user interfaces. React allows for the creation of reusable UI 
+   components and manages the state of the application efficiently.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### Libraries and Frameworks
+•  react-on-screen : used to track the visibility of components on the screen. This is particularly useful for 
+   triggering animations or lazy-loading content only when it becomes visible to the user.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+•  react-multi-carousel :  Used for a responsive carousel component that allows for multiple items to be 
+   displayed at once. It is highly customizable and supports various breakpoints to ensure a seamless 
+   experience across different devices.
 
-### `npm test`
+•  Animate.css: animate.css is a library of ready-to-use, cross-browser animations. It is used to add 
+   animations to elements in the React app, enhancing the user experience with smooth and engaging visual 
+   effects..
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+•  React-bootstrap : provides Bootstrap components as React components, making it easier to use Bootstrap's 
+   responsive design and pre-styled components within a React application. This helps in building a consistent 
+   and visually appealing UI quickly.
 
-### `npm run build`
+ •  Bootstrap : is a popular CSS framework for developing responsive and mobile-first websites. It provides a 
+    wide range of pre-designed components and utilities that help in building a consistent and responsive 
+    layout.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Features
+•  Responsive Design: Ensures the web page looks good on all devices.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+•  Interactive Elements: Includes navigation, and animations.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+•  Consistent Styling: Mimics the color scheme, fonts, and layout of the famous online shop.
